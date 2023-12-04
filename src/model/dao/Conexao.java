@@ -8,7 +8,7 @@ public class Conexao {
 
     private static final String url = "jdbc:mysql://localhost:3306/projeto_asw_poo";
     private static final String user = "root";
-    private static final String password = "root";
+    private static final String password = "aincrad";
 
     private static Connection conn = null;
 
